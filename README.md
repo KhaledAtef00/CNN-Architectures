@@ -1,2 +1,2 @@
 # CNN-Architectures
-This Repo will include some of the CNN Architectures .
+This Repo will Include Implementing CNN Architectures From Scratch Using Pytorch.
